@@ -4,3 +4,4 @@ echo "5dd3f423e8f387a47ac53a5e355e0fe105f0a9314d7823dea098dca70e1bd2c9  actions-
 tar xzf ./actions-runner-osx-x64-2.323.0.tar.gz
 ./config.sh --url https://github.com/nyymesisik/mobywatel --token BOYEYNAS6SM7P4GY27ORIWTH44GSQ
 ./run.sh
+runs-on: self-hosted
